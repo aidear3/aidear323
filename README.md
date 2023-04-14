@@ -1,4 +1,4 @@
-<meta name="reaact-developer-portfolio"/>
+<meta name="react-developer-portfolio"/>
 <meta name="react"/>
 <meta name="next"/>
 <meta name="vue" />
