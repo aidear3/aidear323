@@ -7,7 +7,7 @@
 <meta name="full-stack"/>
 <h1 align="left">
     <em>Hello </em> <img src="source/Hi.gif" height="37px" width="30px">, <em> I'm </em>
-    <em> 🚀 Full-Stack Developer! </em>
+    <em> 🚀 Front-end Developer! </em>
 </h1>
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=React%20and%20Vue%20Front-end%20Developer;Nest%20and%20Python%20Back-end%20Developer;Full-stack%20Web%20Developer&font=Abril+Fatface&width=800&height=90&color=58a6ff&vCenter=true&size=45&duration=4000&pause=1500">
