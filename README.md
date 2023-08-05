@@ -1,1 +1,1 @@
-<img src="https://img.freepik.com/free-vector/technology-big-data-gradient-background_197582-250.jpg?w=2000" alt="image"></img>
+<img src="https://www.wallpaperflare.com/static/477/71/766/anime-naruto-shippuuden-uchiha-itachi-sunset-wallpaper-preview.jpg" alt="image"></img>
